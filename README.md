@@ -22,6 +22,7 @@ You may also see any lint errors in the console.
 ## Tech Stack
 
 -> React
+-> Material UI
 -> SASS
 -> Bootstrap
 -> AWS Amplify (hosting)
